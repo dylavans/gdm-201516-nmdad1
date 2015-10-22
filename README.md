@@ -6,7 +6,7 @@
 <hr>
 ###Auteur
 <p>
-    <a href="https://github.com/dylavans">GitHub</a>
-    <a href="https://bitbucket.org/dylavans/">BitBucket</a>
+    <a href="https://github.com/dylavans">GitHub</a><br>
+    <a href="https://bitbucket.org/dylavans/">BitBucket</a><br>
     dylan.vansteirteghem@student.arteveldehs.be
 </p>
