@@ -1,18 +1,18 @@
 ![alt text](http://i.imgur.com/TkYja0z.png "Dylans' GitHub")
 <hr>
-
+<p>
     Voor een pdf versie van mijn cv<br>
     kan u <a href="https://www.dropbox.com/s/y844yooibqy7rdp/cv%20.pdf?dl=0">
     hier klikken. </a>
-
+</p>
 
 ###Biografie
 <hr>
-
-    Mijn naam is **Dylan Van Steirteghem**,<br>
-    ik ben geboren in **Beveren** op **25 maart 1995**<br>
-    en ben opgegroeid in **Vrasene** waar ik nu nog altijd woon.
-
+<p>
+    Mijn naam is <strong>Dylan Van Steirteghem</strong>,<br>
+    ik ben geboren in <strong>Beveren</strong> op <strong>25 maart 1995</strong><br>
+    en ben opgegroeid in <strong>Vrasene</strong> waar ik nu nog altijd woon.
+</p>
 
 ###Studies
 <hr>
