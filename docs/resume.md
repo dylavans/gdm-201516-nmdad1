@@ -21,7 +21,7 @@
 |Lager|Basisschool DE Oogappel, Vrasene|2001 - 2007|||
 |Secundair|Technisch Berkenboom Instituut, Sint-Niklaas|2007 - 2013|Architecturale Vorming|Afgestudeerd in 2013|
 |Hoger|Arteveldehogeschool Gent|2014 - Heden|Bachelor Grafische en Digitale Media|Heden|
-<hr>
+
 ###Portfolio
 <hr>
 <a href="http://www.arteveldehogeschool.be/campusGDM/studenten_201415/dylavans/webdesign2/imaginaryfest/site/index.html">
